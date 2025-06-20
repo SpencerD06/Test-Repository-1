@@ -21,7 +21,7 @@ Then it renames the branch to main or wtv we make it named
 """
 If this works this was pushed from my mac
 
-
+If this works it was pushed from my pc
 
 
 """
