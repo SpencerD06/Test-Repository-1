@@ -16,3 +16,12 @@ Then it renames the branch to main or wtv we make it named
 
 * can use git status to check situation for repo status
 """
+
+
+"""
+If this works this was pushed from my mac
+
+
+
+
+"""
